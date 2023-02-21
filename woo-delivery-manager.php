@@ -3,9 +3,9 @@
  * Plugin Name: Woo Delivery Manager
  * Plugin URI: https://wordpress.org/plugins/woo-delivery-manager/
  * Description: A flexible and optimized wordpress plugin that allows you to add date & time field on checkout page so user can select the delivery date
- * Author: Kishan Mangukiya | WPKishan
+ * Author: Soham Patel
  * Version: 1.0.0
- * Author URI: mailto:kishanmangukiya.pr@gmail.com
+ * Author URI: soham1255@gmail.com
  */
 
 if( ! defined( 'WPK_PLUGIN_FILE' ) ) :
