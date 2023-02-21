@@ -33,7 +33,7 @@ if ( ! defined( 'WPS_WOO_DELIVERY_MANAGER_URL' ) ) :
 endif;
 
 if ( ! defined( 'WPS_WOO_DELIVERY_MANAGER_TEXTDOMAIN' ) ) :
-	define( 'WPS_WOO_DELIVERY_MANAGER_TEXTDOMAIN', 'wpk-woo-delivery-manager' );
+	define( 'WPS_WOO_DELIVERY_MANAGER_TEXTDOMAIN', 'wps-woo-delivery-manager' );
 endif;
 
 // Manage wordpress backend slider and metabox
